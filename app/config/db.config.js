@@ -3,8 +3,8 @@ module.exports = {
   // USER: "root",
   // PASSWORD: "",
   // DB: "myapi"
-  HOST: "sql.freedb.tech",
-  USER: "freedb_UnknownBoyo",
-  PASSWORD: "j#VEX*kAHPxa9!p",
-  DB: "freedb_myapi_piaipi"
+  HOST: "sql12.freesqldatabase.com",
+  USER: "sql12650575",
+  PASSWORD: "PEmVenyPP6",
+  DB: "sql12650575"
 };
